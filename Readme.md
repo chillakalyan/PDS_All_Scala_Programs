@@ -7,7 +7,7 @@ This repository contains the **Scala** exercise programs (Sl. No. 18 – 25). Th
 Scala collections, functional combinators, case classes, and data analysis with Scala libraries
 (Saddle, Breeze, Spire, Vegas and Plotly-Scala).
 
-> **Author:** `<Your Name>` · **Reg. No:** `<Your Register Number>`
+> **Author:** `Chilla Kalyan Sai Kumar Reddy` · **Reg. No:** `26MML0052`
 
 ---
 
